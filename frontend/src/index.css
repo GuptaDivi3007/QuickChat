@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body {
+    background: linear-gradient(rgba(29, 8, 8, 0.2), rgba(139, 5, 5, 0.2)),url("/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+  color: antiquewhite;
+}
